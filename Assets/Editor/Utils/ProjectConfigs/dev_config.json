@@ -1,0 +1,20 @@
+{
+    "companyName": "YOUR_COMPANY_NAME",
+    "productName": "YOUR_APP_NAME",
+    "applicationDisplayName": "YOUR_APP_NAME",
+    "bundleVersionCode": 0,
+    "bundleVersion": "1.0.0",
+    "buildNumber": "(0)",
+
+    "ios_appID": "com.YOUR_COMPANY_NAME.YOUR_APP_NAME",
+    "ios_appleEnableAutomaticSigning": false,
+    "ios_manualProvisioningProfileID": "",
+    "ios_appleDeveloperTeamID": "",
+    "ios_targetOSVersionString": "8.0",
+
+    "android_appID": "com.YOUR_COMPANY_NAME.YOUR_APP_NAME",
+    "android_keystoreName": "/../Certs/Android_cert.keystore",
+    "android_keystorePass": "123456",
+    "android_keyaliasName": "Android_cert",
+    "android_keyaliasPass": "123456"
+}
